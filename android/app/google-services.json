@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "887136720721",
+    "firebase_url": "https://signinanish-ecb58.firebaseio.com",
+    "project_id": "signinanish-ecb58",
+    "storage_bucket": "signinanish-ecb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887136720721:android:fa1a6388e132cb6f9fa570",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_anish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887136720721-fnp1nld61qt4evaf19iga6aljt1clh56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign_in_anish",
+            "certificate_hash": "caa905b906e1cd6a9726217e9a98ff7372ca8811"
+          }
+        },
+        {
+          "client_id": "887136720721-s9i6jlech2jobjmaun9bpqp3m6jfkiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1O0OATOnIYLqPdls4uKGV6iiDt2TdJQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887136720721-s9i6jlech2jobjmaun9bpqp3m6jfkiaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
